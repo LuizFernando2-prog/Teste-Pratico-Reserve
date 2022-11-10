@@ -1,0 +1,8 @@
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.csproj.AssemblyReference.cache
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.GeneratedMSBuildEditorConfig.editorconfig
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.AssemblyInfoInputs.cache
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.AssemblyInfo.cs
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.csproj.CoreCompileInputs.cache
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.MvcApplicationPartsAssemblyInfo.cache
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.RazorAssemblyInfo.cache
+E:\Testes\TestePraticoReserve\TestePraticoReserve\obj\Debug\net6.0\TestePraticoReserve.RazorAssemblyInfo.cs
