@@ -1,12 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace TestePraticoReserve.Models
 {
     public class ViewModel
     {
-        public int Id { get; set; }
-        public GlobalViewModel? global { get; set; }
-        public List<CountriesInfectedModels>? CountriesInfectedModels { get; set; }
-        public DateTime? date { get; set; }
+        public string? ID { get; set; }
+        public string? Message { get; set; }
+        public GlobalViewModel Global { get; set; }
+        public List<CountriesInfectedModels> Countries { get; set; }
+        public DateTime Date { get; set; }
     }
 }

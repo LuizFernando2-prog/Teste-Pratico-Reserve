@@ -1,0 +1,25 @@
+﻿@model List<CountriesInfectedModels>
+@{
+    <body style="background-color: whitesmoke; color: black;">
+        <div>
+            <div>
+                <table>
+                    <tr>
+                        <th style=" padding: 5px 10px; border: solid 1px black; text-align: center;">Posição</th>
+                        <th style=" padding: 5px 10px; border: solid 1px black; text-align: center;">Pais</th>
+                        <th style=" padding: 5px 10px; border: solid 1px black; text-align: center;">Número de Casos</th>
+                    </tr>
+
+                    @foreach (CountriesInfectedModels countries in Model)
+                    {
+                        <tr>
+                            <th style=" padding: 5px 10px; border: solid 1px black; text-align: center;">@countries.Position</th>
+                            <th style=" padding: 5px 10px; border: solid 1px black; text-align: center;">@countries.Country</th>
+                            <th style=" padding: 5px 10px; border: solid 1px black; text-align: center;">@countries.NewConfirmed</th>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </body>
+}

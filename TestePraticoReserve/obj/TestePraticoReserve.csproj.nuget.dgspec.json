@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Testes\\TestePraticoReserve\\TestePraticoReserve\\TestePraticoReserve.csproj": {}
+    "D:\\Testes\\Teste-Pratico-Reserve\\TestePraticoReserve\\TestePraticoReserve.csproj": {}
   },
   "projects": {
-    "E:\\Testes\\TestePraticoReserve\\TestePraticoReserve\\TestePraticoReserve.csproj": {
+    "D:\\Testes\\Teste-Pratico-Reserve\\TestePraticoReserve\\TestePraticoReserve.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Testes\\TestePraticoReserve\\TestePraticoReserve\\TestePraticoReserve.csproj",
+        "projectUniqueName": "D:\\Testes\\Teste-Pratico-Reserve\\TestePraticoReserve\\TestePraticoReserve.csproj",
         "projectName": "TestePraticoReserve",
-        "projectPath": "E:\\Testes\\TestePraticoReserve\\TestePraticoReserve\\TestePraticoReserve.csproj",
+        "projectPath": "D:\\Testes\\Teste-Pratico-Reserve\\TestePraticoReserve\\TestePraticoReserve.csproj",
         "packagesPath": "C:\\Users\\MrGWo\\.nuget\\packages\\",
-        "outputPath": "E:\\Testes\\TestePraticoReserve\\TestePraticoReserve\\obj\\",
+        "outputPath": "D:\\Testes\\Teste-Pratico-Reserve\\TestePraticoReserve\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MrGWo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [

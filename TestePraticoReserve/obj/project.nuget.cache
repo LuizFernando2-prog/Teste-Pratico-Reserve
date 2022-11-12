@@ -1,21 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bHtHJLAC08uK2rpYq04Ixdlf48Jeo4ZNLut36AS4VLOralflr8gqYoAMhf3vsa5PzHrCLnzW2GrTd0kDW7qGuw==",
+  "dgSpecHash": "UPUUdwqosOw/jRUIA6PPlITYKlr5aoTV4cAl+esinB2MdHMWUYn34SZjRdBcxa/Jh5ZSQ3FKsDzMgJZ86VGzhg==",
   "success": true,
-  "projectFilePath": "E:\\Testes\\TestePraticoReserve\\TestePraticoReserve\\TestePraticoReserve.csproj",
+  "projectFilePath": "D:\\Testes\\Teste-Pratico-Reserve\\TestePraticoReserve\\TestePraticoReserve.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MrGWo\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+    "C:\\Users\\MrGWo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "TestePraticoReserve depends on Newtonsoft.Json (>= 11.0.0) but Newtonsoft.Json 11.0.0 was not found. An approximate best match of Newtonsoft.Json 11.0.1 was resolved.",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

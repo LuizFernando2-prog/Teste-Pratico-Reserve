@@ -17,7 +17,7 @@ namespace TestePraticoReserve.Controllers
                     countries = JsonConvert.DeserializeObject<ViewModel>(apiResnponse);
                 }
             }
-            List<CountriesInfectedModels> countriesInfectedModels = countries.CountriesInfectedModels.OrderByDescending(i => i.AtiveCase).Take(10).ToList();
+            List<CountriesInfectedModels> countriesInfectedModels = countries.Countries.OrderByDescending(i => i.ActiveCases).Take(10).ToList();
 
             var count = 1; 
             foreach(var item in countriesInfectedModels)
